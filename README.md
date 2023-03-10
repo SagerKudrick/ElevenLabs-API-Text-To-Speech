@@ -1,4 +1,4 @@
-# text-to-speech
+# ElevenLabs-API-Text-To-Speech
 
 **Requires an ElevenLabs account**
 
